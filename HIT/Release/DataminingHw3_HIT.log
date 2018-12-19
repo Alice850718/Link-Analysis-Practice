@@ -1,0 +1,35 @@
+﻿已經開始建置於 2016/12/29 下午 06:16:33。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\Lab-PC10\Documents\Visual Studio 2013\Projects\DataminingHw3_HIT\DataminingHw3_HIT\DataminingHw3_HIT.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt HIT.cpp
+         HIT.cpp
+     1>HIT.cpp(116): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(135): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(151): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(166): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(181): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(183): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(200): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(202): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(204): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(213): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(215): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(287): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(290): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(297): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(306): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(309): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(316): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(343): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(345): warning C4018: '<' : signed/unsigned 不相符
+     1>HIT.cpp(357): warning C4244: '=' : 將 'long double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lab-PC10\Documents\Visual Studio 2013\Projects\DataminingHw3_HIT\Release\DataminingHw3_HIT.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lab-PC10\Documents\Visual Studio 2013\Projects\DataminingHw3_HIT\Release\DataminingHw3_HIT.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lab-PC10\Documents\Visual Studio 2013\Projects\DataminingHw3_HIT\Release\DataminingHw3_HIT.lib" /MACHINE:X86 /SAFESEH Release\HIT.obj
+         正在產生程式碼
+         已完成程式碼產生
+         DataminingHw3_HIT.vcxproj -> C:\Users\Lab-PC10\Documents\Visual Studio 2013\Projects\DataminingHw3_HIT\Release\DataminingHw3_HIT.exe
+     1>專案 "C:\Users\Lab-PC10\Documents\Visual Studio 2013\Projects\DataminingHw3_HIT\DataminingHw3_HIT\DataminingHw3_HIT.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.28
